@@ -1,0 +1,62 @@
+.box {
+  margin: 12px 35px ;
+  border: rgb(187, 186, 186);
+  padding: 8px 150px;
+  border-style:double;
+  text-align:start;
+  border-radius: 30px 30px 30px 30px;
+
+}
+
+.button {
+    width: 200px;
+    border: 5px;
+    background-color: #cfcfcf;
+    padding: 15px 35px;
+    border-radius: 30px 30px 30px 30px;
+    box-shadow: 2px 2px 2px rgb(100, 96, 96);
+    margin: 5px ;
+    color: rgb(0, 0, 0);
+    font-size: large;
+    font-family: monospace;
+   
+}
+
+.button1 {
+position: absolute;
+  top: 80%;
+  left: 72%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #FF8210;
+  color: white;
+  font-size: 16px;
+  padding: 5px 50px;
+  border-radius: 30px 30px 30px 30px;
+  box-shadow: 2px 2px 2px rgb(221, 151, 0);
+  margin: 3px;
+ font-size: 14px;
+ font-family:monospace;
+ border: none;
+  
+}
+
+.mb-3{
+    padding: 10px 15px;
+    
+} 
+
+.maps {
+    margin-top: 50px;
+    width: 600px;
+    padding-left: 50px;
+    
+}
+
+.text {
+    text-align: start;
+    margin-top: 20px;
+    padding-left: 50px;
+    font-size: 18px;
+    font-family: monospace;
+}
